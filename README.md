@@ -2,7 +2,7 @@
 TP Integrador de la materia Desarrollo Web
 
 # Desarrollo de un portafolio web personal
-Descripción del proyecto: Este proyecto consiste en desarrollar un portafolio web personal que muestre mis habilidades y experiencia en el campo de la programación. La página web debe ser fácil de usar, accesible y escalable.
+Descripción del proyecto: Este proyecto consiste en desarrollar un portafolio web personal con un diseño sacado de figma.
 
 # Tecnologías utilizadas
 
