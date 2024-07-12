@@ -15,6 +15,9 @@ Figma (diseño)
 # Enlace de diseño en Figma
 Enlace al diseño en Figma: https://www.figma.com/design/GAhqV8RvHCSdvgkg6Reut1/Personal-Portfolio%2F-CV-(Community)?node-id=0-1&m=dev&t=Ig4nalfYsAI6wtLm-1
 
+# Enlace de la pagina creada
+https://davidb954.github.io/TrabajoIntegradorHTML/
+
 # Desarrollo
 Etapa 1: Diseño
 Se buscó un diseño de portafolio en Figma y se personalizó con mi información.
